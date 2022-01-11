@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Klement
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in Full Stack(Java/NodeJs + Angular) Web Development
+- 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on Full Stack Web Development
 - 📫 How to reach me klementbinaj@gmail.com
 
